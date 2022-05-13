@@ -16,6 +16,7 @@ This terraform script perform the following:
 
 
 Note: Generate your own access and secret keys and supply into the script as needed. 
+This keys can also be stored as environmental variables
 
 Execute Terraform-install.py to deploy Terraform onto your debian/ubuntu device using APT package manager
 
