@@ -7,3 +7,4 @@ os.system("sudo apt install terraform")
 
 #Check terraform version
 os.system("terraform -v ")
+print ("[+] Terraform Was Successfully Installed")
